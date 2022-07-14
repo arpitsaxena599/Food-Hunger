@@ -1,0 +1,51 @@
+header
+{
+    background-color:  lightcyan;
+    background-size:contain;
+    height: 220vh;
+    background position: center;
+}
+
+.container
+{
+    margin-top:0px;
+}
+.newarrival
+{
+    background: green;
+    width: 50px;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: monospace;
+}
+.col-md-7 h2
+{
+    color:black;
+}
+.stars
+{
+    height:20px;
+}
+.price
+{
+    color: orange;
+    font-size: 26px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+input
+{
+    border: 1px solid #ccc;
+    font-weight: bold;
+    height: 32px;
+    text-align: center;
+    width: 30px;
+}
+.cart
+{
+    background: #FE980F;
+    color: #FFFFFF;
+    font-size: 15px;
+    margin-left: 20px;
+}
