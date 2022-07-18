@@ -1,17 +1,17 @@
 pipeline {
   agent any
   stages {
-  stage('Stage 1') {
+  stage('Message 1') {
       steps {
         script {
-          echo 'Stage 1'
+          echo 'Hello World'
         }
       }
     }
-  stage('Stage 2') {
+  stage('Message 2') {
       steps {
         script {
-          echo 'Stage 2'
+          echo 'This Jenkinsfile is running from github'
         }
       }
     }
